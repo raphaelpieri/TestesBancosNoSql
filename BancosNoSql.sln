@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{CA3145CB-0517-4ADF-9D36-026272F9FFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{384288EA-AD4B-4C54-8B32-94573BB7FBEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbApp", "MongoDbApp\MongoDbApp.csproj", "{5C2643B5-6AAE-4E72-94DE-F450022035F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CassandraApp", "CassandraApp\CassandraApp.csproj", "{2E03D79C-DC86-45C7-9385-550F226FBA31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3145CB-0517-4ADF-9D36-026272F9FFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3145CB-0517-4ADF-9D36-026272F9FFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3145CB-0517-4ADF-9D36-026272F9FFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3145CB-0517-4ADF-9D36-026272F9FFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384288EA-AD4B-4C54-8B32-94573BB7FBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384288EA-AD4B-4C54-8B32-94573BB7FBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384288EA-AD4B-4C54-8B32-94573BB7FBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384288EA-AD4B-4C54-8B32-94573BB7FBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2643B5-6AAE-4E72-94DE-F450022035F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2643B5-6AAE-4E72-94DE-F450022035F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2643B5-6AAE-4E72-94DE-F450022035F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2643B5-6AAE-4E72-94DE-F450022035F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E03D79C-DC86-45C7-9385-550F226FBA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E03D79C-DC86-45C7-9385-550F226FBA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E03D79C-DC86-45C7-9385-550F226FBA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E03D79C-DC86-45C7-9385-550F226FBA31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

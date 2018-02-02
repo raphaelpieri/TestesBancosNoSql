@@ -1,0 +1,12 @@
+.idea
+.vscode
+CassandraApp/bin
+CassandraApp/obj
+Domain/bin
+Domain/obj
+Infra/bin
+Infra/obj
+MongoDbApp/bin
+MongoDbApp/obj
+Shared/bin
+Shared/obj
