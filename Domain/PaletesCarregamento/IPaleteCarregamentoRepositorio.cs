@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Domain.PaletesCarregamento
 {
@@ -6,5 +7,8 @@ namespace Domain.PaletesCarregamento
     {
         void Salvar(PaleteCarregamento paletesCarregamento);
         IList<PaleteCarregamento> BuscarTodos();
+        PaleteCarregamento Buscar(Guid id);
+        PaleteCarregamento BuscarElasticSearch(Guid id);
+        PaleteCarregamento Buscar(string nome);
     }
 }

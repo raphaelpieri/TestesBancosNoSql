@@ -1,0 +1,45 @@
+INICIO ESCRITA
+Já foram 500 interacoes: 0:00:12,2697231 - (Tempo medio por request: 24 ms
+Já foram 1000 interacoes: 0:00:25,1086564 - (Tempo medio por request: 25 ms
+Já foram 1500 interacoes: 0:00:47,3616309 - (Tempo medio por request: 31 ms
+Já foram 2000 interacoes: 0:01:02,1821387 - (Tempo medio por request: 31 ms
+Já foram 2500 interacoes: 0:01:17,5102315 - (Tempo medio por request: 31 ms
+Já foram 3000 interacoes: 0:01:33,7673836 - (Tempo medio por request: 31 ms
+Já foram 3500 interacoes: 0:01:51,1982052 - (Tempo medio por request: 31 ms
+Já foram 4000 interacoes: 0:02:09,5011587 - (Tempo medio por request: 32 ms
+Já foram 4500 interacoes: 0:02:28,0794429 - (Tempo medio por request: 32 ms
+Já foram 5000 interacoes: 0:02:48,2173235 - (Tempo medio por request: 33 ms
+Já foram 5500 interacoes: 0:03:09,3503279 - (Tempo medio por request: 34 ms
+Já foram 6000 interacoes: 0:03:31,5005109 - (Tempo medio por request: 35 ms
+Já foram 6500 interacoes: 0:03:54,2128907 - (Tempo medio por request: 36 ms
+Já foram 7000 interacoes: 0:04:17,7561484 - (Tempo medio por request: 36 ms
+Já foram 7500 interacoes: 0:04:42,2914647 - (Tempo medio por request: 37 ms
+Já foram 8000 interacoes: 0:05:07,5917389 - (Tempo medio por request: 38 ms
+Já foram 8500 interacoes: 0:05:34,3161646 - (Tempo medio por request: 39 ms
+Já foram 9000 interacoes: 0:06:01,9645899 - (Tempo medio por request: 40 ms
+Já foram 9500 interacoes: 0:06:30,4537667 - (Tempo medio por request: 41 ms
+Já foram 10000 interacoes: 0:06:59,8146481 - (Tempo medio por request: 41 ms
+FIM ESCRITA
+
+INICIO CONSULTA
+Já foram 500 interacoes: 0:00:13,0124336 - (Tempo medio por request: 26 ms
+Já foram 1000 interacoes: 0:00:26,9895359 - (Tempo medio por request: 26 ms
+Já foram 1500 interacoes: 0:00:40,0110441 - (Tempo medio por request: 26 ms
+Já foram 2000 interacoes: 0:00:53,7752397 - (Tempo medio por request: 26 ms
+Já foram 2500 interacoes: 0:01:06,2420522 - (Tempo medio por request: 26 ms
+Já foram 3000 interacoes: 0:01:20,2704632 - (Tempo medio por request: 26 ms
+Já foram 3500 interacoes: 0:01:33,7509804 - (Tempo medio por request: 26 ms
+Já foram 4000 interacoes: 0:01:47,0568049 - (Tempo medio por request: 26 ms
+Já foram 4500 interacoes: 0:01:59,7589041 - (Tempo medio por request: 26 ms
+Já foram 5000 interacoes: 0:02:12,9151979 - (Tempo medio por request: 26 ms
+Já foram 5500 interacoes: 0:02:26,4478369 - (Tempo medio por request: 26 ms
+Já foram 6000 interacoes: 0:02:40,1048718 - (Tempo medio por request: 26 ms
+Já foram 6500 interacoes: 0:02:53,229461 - (Tempo medio por request: 26 ms
+Já foram 7000 interacoes: 0:03:05,645766 - (Tempo medio por request: 26 ms
+Já foram 7500 interacoes: 0:03:18,106377 - (Tempo medio por request: 26 ms
+Já foram 8000 interacoes: 0:03:30,5505946 - (Tempo medio por request: 26 ms
+Já foram 8500 interacoes: 0:03:42,9894428 - (Tempo medio por request: 26 ms
+Já foram 9000 interacoes: 0:03:55,5181602 - (Tempo medio por request: 26 ms
+Já foram 9500 interacoes: 0:04:08,6452084 - (Tempo medio por request: 26 ms
+Já foram 10000 interacoes: 0:04:22,3623082 - (Tempo medio por request: 26 ms
+FIM CONSULTA

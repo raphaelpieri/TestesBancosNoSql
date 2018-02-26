@@ -1,32 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Domain.PaletesCarregamento;
-using MongoDB.Driver;
+using Microsoft.EntityFrameworkCore;
 
-namespace Infra.MongoDb
+namespace Infra.SqlServer
 {
     public class PaleteCarregamentoRepositorio : IPaleteCarregamentoRepositorio
     {
-        public PaleteCarregamentoRepositorio(MongoDbContext context)
+        private readonly SqlServerContext _context;
+
+        public PaleteCarregamentoRepositorio(SqlServerContext context)
         {
             _context = context;
         }
 
-        private readonly MongoDbContext _context;
-        
+
         public void Salvar(PaleteCarregamento paletesCarregamento)
         {
-            _context.PaletesCarregamento.InsertOne(paletesCarregamento);
+            _context.Paletes.Add(paletesCarregamento);
+            _context.SaveChanges();
         }
 
         public IList<PaleteCarregamento> BuscarTodos()
         {
-            return _context.PaletesCarregamento.Find(m => true).ToList();
+            return _context.Paletes.ToList();
         }
 
         public PaleteCarregamento Buscar(Guid id)
         {
-            throw new NotImplementedException();
+            return _context.Paletes.FirstOrDefault(x => x.Id == id);
         }
 
         public PaleteCarregamento BuscarElasticSearch(Guid id)
@@ -36,7 +39,7 @@ namespace Infra.MongoDb
 
         public PaleteCarregamento Buscar(string nome)
         {
-            throw new NotImplementedException();
+            return _context.Paletes.FirstOrDefault(x => x.NumeroDocumento.Equals(nome));
         }
     }
 }

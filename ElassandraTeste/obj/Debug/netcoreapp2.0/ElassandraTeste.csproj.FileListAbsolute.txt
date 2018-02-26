@@ -1,0 +1,14 @@
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\ElassandraTeste.deps.json
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\ElassandraTeste.runtimeconfig.json
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\ElassandraTeste.runtimeconfig.dev.json
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\ElassandraTeste.dll
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\ElassandraTeste.pdb
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\Domain.dll
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\Infra.dll
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\bin\Debug\netcoreapp2.0\Infra.pdb
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\obj\Debug\netcoreapp2.0\ElassandraTeste.csproj.CoreCompileInputs.cache
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\obj\Debug\netcoreapp2.0\ElassandraTeste.AssemblyInfoInputs.cache
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\obj\Debug\netcoreapp2.0\ElassandraTeste.AssemblyInfo.cs
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\obj\Debug\netcoreapp2.0\ElassandraTeste.dll
+C:\projetos\POCS\BancosNoSql\ElassandraTeste\obj\Debug\netcoreapp2.0\ElassandraTeste.pdb
